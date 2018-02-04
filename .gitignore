@@ -76,3 +76,7 @@ DerivedDataCache/*
 
 # Starter Content
 StarterContent/*
+Zelda/Content/StarterContent/
+Zelda/Binaries/
+Zelda/Intermediate/
+Zelda/Saved/
