@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Zelda.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files (x86)\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\SourceTree\Zelda\Zelda\Intermediate\Build\Win64\UE4Editor\Development\Zelda\Zelda.cpp.obj"
+"D:\SourceTree\Zelda\Zelda\Intermediate\Build\Win64\UE4Editor\Development\Zelda\ZeldaGameModeBase.cpp.obj"
+"D:\SourceTree\Zelda\Zelda\Intermediate\Build\Win64\UE4Editor\Development\Zelda\Zelda.init.gen.cpp.obj"
+"D:\SourceTree\Zelda\Zelda\Intermediate\Build\Win64\UE4Editor\Development\Zelda\ZeldaGameModeBase.gen.cpp.obj"
+"D:\Program Files (x86)\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Zelda\PCLaunch.rc.res"
+"D:\Program Files (x86)\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\SourceTree\Zelda\Zelda\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Zelda.lib"
