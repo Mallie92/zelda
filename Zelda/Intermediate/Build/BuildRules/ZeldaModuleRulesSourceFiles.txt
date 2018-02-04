@@ -1,3 +1,0 @@
-D:\SourceTree\Zelda\Zelda\Source\Zelda\Zelda.Build.cs
-D:\SourceTree\Zelda\Zelda\Source\Zelda.Target.cs
-D:\SourceTree\Zelda\Zelda\Source\ZeldaEditor.Target.cs
